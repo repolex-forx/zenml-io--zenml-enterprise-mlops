@@ -1,0 +1,11 @@
+{
+  "org": "zenml-io",
+  "repo": "zenml-enterprise-mlops",
+  "versions": [
+    {
+      "commit": "6c13ccf00b655a8b9f7d0465c7651a98d461b250",
+      "tag": "",
+      "parsed_at": "2026-11-08T05:30:55.500187+00:00"
+    }
+  ]
+}
